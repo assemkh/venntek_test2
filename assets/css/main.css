@@ -1570,6 +1570,7 @@ section {
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 400px;
+   border-radius: 30px;
 }
 
 .faq .accordion-item {
